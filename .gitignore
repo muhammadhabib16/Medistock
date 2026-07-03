@@ -1,0 +1,64 @@
+# Dependency Directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Frontend Build Outputs
+dist/
+dist-ssr/
+build/
+
+# Rust / Tauri Build & Gen Outputs
+src-tauri/target/
+src-tauri/gen/schemas/
+src-tauri/WebView2Runtime/
+
+# Databases & Local App Data
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Testing (Playwright)
+tests/core-features.spec.ts
+playwright-report/
+test-results/
+junit.xml
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Editor & IDE Directories/Files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
