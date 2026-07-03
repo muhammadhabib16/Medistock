@@ -1,4 +1,4 @@
-# 📦 Aplikasi Pengelolaan Obat Apotik (Apotek ABC)
+# 📦 Aplikasi Pengelolaan Obat Apotik (Medistock)
 
 [![Tauri](https://img.shields.io/badge/Tauri-v2.0-blue?logo=tauri&logoColor=white)](https://tauri.app/)
 [![React](https://img.shields.io/badge/React-v19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
