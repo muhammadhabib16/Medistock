@@ -147,4 +147,4 @@ Semua bentuk kontribusi sangat dihargai:
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah **Lisensi MIT** - bebas digunakan, dimodifikasi, dan didistribusikan baik untuk keperluan komersial maupun non-komersial. Untuk informasi lebih lanjut, silakan lihat berkas lisensi yang terkait.
+Proyek ini dilisensikan di bawah **Lisensi MIT** - bebas digunakan, dimodifikasi, dan didistribusikan baik untuk keperluan komersial maupun non-komersial. Untuk informasi lebih lanjut, silakan lihat berkas [LICENSE](file:///c:/Project%20Apotik%20Desktop/sistem-pengadaan-obat-apotik/LICENSE).
